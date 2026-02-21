@@ -1,4 +1,4 @@
-# Budgitin
+# BUDGITIN
 
 Welcome to the **official Budgitin GitHub Organization** –  
 the home of intelligent budgeting, financial insights, and productivity tools designed for modern users.
