@@ -15,7 +15,6 @@ Budgitin focuses on blending **finance + AI + usability** into one powerful ecos
 
 | Project | Description |
 |--------|-------------|
-| **Budgitin Mobile Frontend** | UI built with modern frameworks and responsive design. |
 | **Budgitin Backend**  | Secure API, authentication, automation, and financial logic. |
 | **AI** | Smart recommendations, predictions, and insights. |
 
@@ -29,4 +28,7 @@ We love clean code, smart design, and solving real-life problems through tech.
 
 ## Official Website  
 **https://budgitin.com**
+
+## Budgitin Blog 
+**https://blog.budgitin.com**
 
