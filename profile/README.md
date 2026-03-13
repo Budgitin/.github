@@ -1,34 +1,19 @@
-# BUDGITIN
+<p align="center">
+ <img width="64" height="86" alt="image" src="https://github.com/user-attachments/assets/00df9548-9111-4357-9b99-845adcf8a8b2" />
+  <p align="center"><strong>Your money, intelligently managed.</strong></p>
+</p>
 
-Welcome to the **official Budgitin GitHub Organization** –  
-the home of intelligent budgeting, financial insights, and productivity tools designed for modern users.
+<p align="center">
+  <a href="https://budgitin.com"><strong>Website</strong></a> •
+  <a href="https://status.budgitin.com"><strong>Status</strong></a> •
+  <a href="https://blog.budgitin.com"><strong>Blog</strong></a>
+</p>
 
-Budgitin is built with the goal of helping individuals manage money smarter through automation, predictions, and clean digital experiences.
-
-
-## What We’re Building
-
-Budgitin focuses on blending **finance + AI + usability** into one powerful ecosystem
-
-
-## Current Active Projects
-
-| Project | Description |
-|--------|-------------|
-| **Budgitin Backend**  | Secure API, authentication, automation, and financial logic. |
-| **AI** | Smart recommendations, predictions, and insights. |
+Budgitin is a modern financial platform designed to help people better understand, manage, and optimize their money. By combining intelligent insights, automation, and thoughtful design, Budgitin aims to make personal finance clearer and easier to manage.
 
 
-## Who Are We?
+---
 
-A team of passionate developers building meaningful tools around finance, automation, and user experience.
+### Vision
 
-We love clean code, smart design, and solving real-life problems through tech.
-
-
-## Official Website  
-**https://budgitin.com**
-
-## Budgitin Blog 
-**https://blog.budgitin.com**
-
+Budgitin focuses on building tools that simplify financial management while maintaining a strong emphasis on clarity, reliability, and user-focused design.
